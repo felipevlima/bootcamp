@@ -6,9 +6,9 @@ Sistema para academia backend, front-end e mobile.
 
 - [x] Criar estrutura
 - [ ] Config Nodemon e Sucrase
-- [] Config ESLint, Prettier & EditorConfig
-- [] Criar o BD
-- [] Config Sequelize
-- [] Criar Migration de Usuario
-- [] Criar Model de Usuario
-- [] Criar Loader para os Models
+- [ ] Config ESLint, Prettier & EditorConfig
+- [ ] Criar o BD
+- [ ] Config Sequelize
+- [ ] Criar Migration de Usuario
+- [ ] Criar Model de Usuario
+- [ ] Criar Loader para os Models
