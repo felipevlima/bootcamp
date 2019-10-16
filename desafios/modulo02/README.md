@@ -4,11 +4,10 @@ Sistema para academia backend, front-end e mobile.
 
 # Tarefas
 
-- [x] Criar estrutura
-- [ ] Config Nodemon e Sucrase
+- [x] Instalar Express e Instalar e configurar Nodemon e Sucrase (-D).
 - [ ] Config ESLint, Prettier & EditorConfig
-- [ ] Criar o BD
-- [ ] Config Sequelize
+- [ ] Criar estrutura
+- [ ] Criar o BD e Config Sequelize
 - [ ] Criar Migration de Usuario
 - [ ] Criar Model de Usuario
 - [ ] Criar Loader para os Models
