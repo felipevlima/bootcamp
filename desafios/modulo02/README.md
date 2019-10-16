@@ -5,7 +5,7 @@ Sistema para academia backend, front-end e mobile.
 # Tarefas
 
 - [x] Criar estrutura
-- [] Config Nodemon e Sucrase
+- [ ] Config Nodemon e Sucrase
 - [] Config ESLint, Prettier & EditorConfig
 - [] Criar o BD
 - [] Config Sequelize
