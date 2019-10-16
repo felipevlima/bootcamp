@@ -4,7 +4,7 @@ Sistema para academia backend, front-end e mobile.
 
 # Tarefas
 
-- [] Criar estrutura
+- [x] Criar estrutura
 - [] Config Nodemon e Sucrase
 - [] Config ESLint, Prettier & EditorConfig
 - [] Criar o BD
