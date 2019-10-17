@@ -12,3 +12,9 @@ Sistema para academia backend, front-end e mobile.
 - [x] Criar Model de Usuario
 - [x] Criar Loader para os Models
 - [x] Criar admin seed
+- [x] Criar Controller de Usuario
+- [x] hash pass
+- [ ] jwt
+- [ ] middlewares
+- [ ] update user
+- [ ] validation
