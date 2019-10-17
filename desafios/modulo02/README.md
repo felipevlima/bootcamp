@@ -14,7 +14,7 @@ Sistema para academia backend, front-end e mobile.
 - [x] Criar admin seed
 - [x] Criar Controller de Usuario
 - [x] hash pass
-- [ ] jwt
-- [ ] middlewares
-- [ ] update user
-- [ ] validation
+- [x] jwt sessions
+- [x] middlewares
+- [x] update user
+- [x] validation
