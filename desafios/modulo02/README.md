@@ -29,3 +29,4 @@ Sistema para academia backend, front-end e mobile.
 - [x] Criar controller de Students e metodo store
 - [x] Validar students
 - [x] Criar metodo update
+- [x] middleware validacao admin criacao e update de alunos
