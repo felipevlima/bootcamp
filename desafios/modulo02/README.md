@@ -2,19 +2,19 @@
 
 Sistema para academia backend, front-end e mobile.
 
-#Principais Dependencias
+# Principais Dependencias
 
 Express, Nodemon, Sucrase, Eslint, Prettier, Sequelize, Sequelize-cli, Jsonwebtoken, Bcryptjs e Yup.
 
 # Tarefas
 
-#Estrutura e Configurações
+# Estrutura e Configurações
 - [x] Instalar Express e Instalar e configurar Nodemon e Sucrase (-D).
 - [x] Config ESLint, Prettier & EditorConfig
 - [x] Criar estrutura
 - [x] Instalar e Config Sequelize (criar base de dados)
 
-#User
+# User
 - [x] Criar Migration de Usuario
 - [x] Criar Model de Usuario
 - [x] Criar Loader para os Models
@@ -26,7 +26,7 @@ Express, Nodemon, Sucrase, Eslint, Prettier, Sequelize, Sequelize-cli, Jsonwebto
 - [x] update user
 - [x] validation
 
-#Students
+# Students
 - [x] Criar migration de students
 - [x] Criar model de students
 - [x] Incluir model de students no Loader
