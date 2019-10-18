@@ -25,7 +25,7 @@ class UserController {
             res.status(400).json({ error: 'User already exists.' });
         }
 
-        const { id, name, email, provider } = User.create(req.body);
+        const { id, name, email, provider } = await User.create(req.body);
 
         return res.json({
             id,
@@ -60,7 +60,7 @@ class UserController {
         const user = await User.findByPk(req.userId);
 
         if (email && email !== user.email) {
-            const userExists = User.findOne({ where: { email } });
+            const userExists = await User.findOne({ where: { email } });
 
             if (userExists) {
                 res.status(400).json({ error: 'User already exists.' });
