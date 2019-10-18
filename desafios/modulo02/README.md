@@ -2,6 +2,10 @@
 
 Sistema para academia backend, front-end e mobile.
 
+#Principais Dependencias
+
+Express, Nodemon, Sucrase, Eslint, Prettier, Sequelize, Sequelize-cli, Jsonwebtoken, Bcryptjs e Yup.
+
 # Tarefas
 
 #Estrutura e Configurações
