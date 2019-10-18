@@ -26,5 +26,6 @@ Sistema para academia backend, front-end e mobile.
 - [x] Criar migration de students
 - [x] Criar model de students
 - [x] Incluir model de students no Loader
-- [ ] Criar controller de Students
-- [ ] Validar students
+- [x] Criar controller de Students e metodo store
+- [x] Validar students
+- [x] Criar metodo update
